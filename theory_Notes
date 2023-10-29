@@ -1,0 +1,19 @@
+
+
+
+java have 3 editions
+-java standard edition(JSE)- for developing apps which not need server and DB(calculator)
+-java enterprice edition(J2EE)- for developing apps which need server(websites)
+-java micro edition(J2ME)- for developing mobile apps 
+
+java enterprice edition is used for wed developmentt but it have following issues
+-EJB (Enterprise Java Beans) these are hard to configure 
+-so spring is introduced
+-spring boot gives a embedded server named tomcat
+-spring boot all the configiration and result ready deplay apps
+
+
+features
+Inversion of control:it is an approuch for handling objects and maintain configurable apps 
+-we not need to create objects for classes manually using bean
+-bean is a simple java obj 
